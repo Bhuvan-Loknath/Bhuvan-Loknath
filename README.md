@@ -13,6 +13,14 @@ I'm a **Computer Science Graduate Student** passionate about **embedded systems*
 - **Software development** for hardware interfacing.
 - **Networking and communication protocols** for distributed systems.
 
+## 🛠️ Skills:
+- **Programming Languages**: C, Shell Scripting, Yocto, Embedded C
+- **Embedded Systems**: Raspberry Pi, Microcontrollers
+- **Networking**: TCP/IP, Ethernet, Serial Communication, RF Communication, Wi-Fi, Bluetooth
+- **Interface**: I2C, GPIO, UART, Ethernet, Wi-Fi, Bluetooth, Audio-Amplifier
+- **Tools**: Git, GitLab, Docker
+- **Operating Systems**: Linux, Windows
+
 ## 📫 How to Reach Me:
 - Email: bhuvanloknath@example.com
 - LinkedIn: [Bhuvan Loknath](linkedin.com/in/bhuvan-l)
