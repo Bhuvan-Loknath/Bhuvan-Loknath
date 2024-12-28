@@ -42,11 +42,14 @@ I'm a **Computer Science Graduate Student** and a **passionate Embedded Software
 ## 📂 Projects:
 
 ### 🌡️ Multi-Sensor Data Acquisition System
-- Built **Linux kernel drivers** for hardware integration, enabling efficient real-time data collection.
-- Enhanced system responsiveness using **GPIO-driven interrupts** and optimized logging with **time synchronization**.
+- Developed **Linux kernel drivers** for sensors and hardware modules, enabling efficient real-time data acquisition.
+- Integrated I2C temperature sensors, UART GPS modules, and external RTC for synchronized logging.
+- Utilized sysfs for user-space accessibility and implemented GPIO-driven interrupts for responsive data handling.
+- Enhanced system performance with time synchronization and visualization for live data monitoring.
 
 ### 🛰️ Multi-Tier Environmental Monitoring System
-- Designed and deployed a scalable monitoring system using **Ethernet**, **RF modems**, and **satellite networks** for extreme environments.
+- Designed and deployed a multi-tier system utilizing RF modems, Ethernet networks for stable communication in extreme environments.
+- Improved energy efficiency by 35% through automated power management and optimized hardware configurations.
 
 ---
 
